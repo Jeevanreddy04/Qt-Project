@@ -10,6 +10,9 @@ Qt Quick (QML) UI with a C++ backend that captures a **live camera feed** using 
 
 ### Main Application Window
 ![Application UI](outputs/imgs/Screenshot%202026-01-29%20231907.png)
+
+### Application in Action
+![Working Implementation](outputs/imgs/Screenshot%202026-01-29%20231920.png)
 ## Requirements (Linux)
 
 - CMake (>= 3.21)

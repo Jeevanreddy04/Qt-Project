@@ -1,0 +1,23 @@
+# Build
+/build/
+/cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Qt / QML
+.qmlcache/
+*.qmlc
+*.jsc
+*.metatypes.json
+*.cache
+*.user
+
+# IDE/editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
